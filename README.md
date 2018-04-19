@@ -1,3 +1,3 @@
-# MyTool HouseKeeping
+# mysql-housekeeping
 
-Database HouseKeeping
+TO CONFIG query & connection string go to DbSettings.json
