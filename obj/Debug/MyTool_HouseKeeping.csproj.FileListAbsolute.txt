@@ -1,0 +1,30 @@
+D:\Project\MyToolHouseKeeping\MyTool_HouseKeeping\bin\Debug\MyTool_HouseKeeping.exe.config
+D:\Project\MyToolHouseKeeping\MyTool_HouseKeeping\bin\Debug\MyTool_HouseKeeping.exe
+D:\Project\MyToolHouseKeeping\MyTool_HouseKeeping\bin\Debug\MyTool_HouseKeeping.pdb
+D:\Project\MyToolHouseKeeping\MyTool_HouseKeeping\bin\Debug\EntityFramework.dll
+D:\Project\MyToolHouseKeeping\MyTool_HouseKeeping\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\MyToolHouseKeeping\MyTool_HouseKeeping\bin\Debug\MySql.Data.dll
+D:\Project\MyToolHouseKeeping\MyTool_HouseKeeping\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Project\MyToolHouseKeeping\MyTool_HouseKeeping\bin\Debug\Newtonsoft.Json.dll
+D:\Project\MyToolHouseKeeping\MyTool_HouseKeeping\bin\Debug\EntityFramework.xml
+D:\Project\MyToolHouseKeeping\MyTool_HouseKeeping\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\MyToolHouseKeeping\MyTool_HouseKeeping\bin\Debug\Newtonsoft.Json.xml
+D:\Project\MyToolHouseKeeping\MyTool_HouseKeeping\obj\Debug\MyTool_HouseKeeping.exe
+D:\Project\MyToolHouseKeeping\MyTool_HouseKeeping\obj\Debug\MyTool_HouseKeeping.pdb
+D:\Project\MyTool HouseKeeping\bin\Debug\MyTool_HouseKeeping.exe.config
+D:\Project\MyTool HouseKeeping\bin\Debug\MyTool_HouseKeeping.exe
+D:\Project\MyTool HouseKeeping\bin\Debug\MyTool_HouseKeeping.pdb
+D:\Project\MyTool HouseKeeping\bin\Debug\EntityFramework.dll
+D:\Project\MyTool HouseKeeping\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\MyTool HouseKeeping\bin\Debug\MySql.Data.dll
+D:\Project\MyTool HouseKeeping\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Project\MyTool HouseKeeping\bin\Debug\Newtonsoft.Json.dll
+D:\Project\MyTool HouseKeeping\bin\Debug\EntityFramework.xml
+D:\Project\MyTool HouseKeeping\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\MyTool HouseKeeping\bin\Debug\Newtonsoft.Json.xml
+D:\Project\MyTool HouseKeeping\obj\Debug\MyTool_HouseKeeping.csprojResolveAssemblyReference.cache
+D:\Project\MyTool HouseKeeping\obj\Debug\MyTool_HouseKeeping.exe
+D:\Project\MyTool HouseKeeping\obj\Debug\MyTool_HouseKeeping.pdb
+D:\Project\MySQL-HouseKeeping\bin\Debug\MyTool_HouseKeeping.exe.config
+D:\Project\MySQL-HouseKeeping\obj\Debug\MyTool_HouseKeeping.exe
+D:\Project\MySQL-HouseKeeping\obj\Debug\MyTool_HouseKeeping.pdb

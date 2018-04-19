@@ -1,0 +1,4 @@
+{
+    "ConnectionString": "server = localhost; user id = root; database = MyTOOL",
+    "Query": ["DELETE FROM Logs;","DELETE FROM User_RefreshToken;"]
+}

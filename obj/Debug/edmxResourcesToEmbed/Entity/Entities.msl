@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MyTOOLModelStoreContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="Logs">
+      <EntityTypeMapping TypeName="MyTOOLModel.Log">
+        <MappingFragment StoreEntitySet="Logs">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="created_at" ColumnName="created_at" />
+          <ScalarProperty Name="created_by" ColumnName="created_by" />
+          <ScalarProperty Name="action" ColumnName="action" />
+          <ScalarProperty Name="detail" ColumnName="detail" />
+          <ScalarProperty Name="function" ColumnName="function" />
+          <ScalarProperty Name="exception" ColumnName="exception" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

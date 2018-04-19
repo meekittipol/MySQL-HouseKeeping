@@ -1,0 +1,15 @@
+D:\Project\MySQL-HouseKeeping\bin\Debug\MyTool_HouseKeeping.exe.config
+D:\Project\MySQL-HouseKeeping\bin\Debug\MyTool_HouseKeeping.exe
+D:\Project\MySQL-HouseKeeping\bin\Debug\MyTool_HouseKeeping.pdb
+D:\Project\MySQL-HouseKeeping\bin\Debug\EntityFramework.dll
+D:\Project\MySQL-HouseKeeping\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\MySQL-HouseKeeping\bin\Debug\MySql.Data.dll
+D:\Project\MySQL-HouseKeeping\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Project\MySQL-HouseKeeping\bin\Debug\Newtonsoft.Json.dll
+D:\Project\MySQL-HouseKeeping\bin\Debug\EntityFramework.xml
+D:\Project\MySQL-HouseKeeping\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\MySQL-HouseKeeping\bin\Debug\Newtonsoft.Json.xml
+D:\Project\MySQL-HouseKeeping\obj\Debug\MyTool_HouseKeeping.exe
+D:\Project\MySQL-HouseKeeping\obj\Debug\MyTool_HouseKeeping.pdb
+D:\Project\MySQL-HouseKeeping\bin\Debug\mysql-housekeeping.exe.config
+D:\Project\MySQL-HouseKeeping\bin\Debug\mysql_housekeeping.exe.config
